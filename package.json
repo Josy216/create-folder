@@ -1,0 +1,25 @@
+{
+  "name": "create-folder",
+  "version": "1.0.0",
+  "description": "Create folder in a second",
+  "type":"module",
+  "bin": {
+    "create-folder": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josy216/create-folder.git"
+  },
+  "keywords": [
+    "fullstack",
+    "Jocode",
+    "boilerplate",
+    "cli"
+  ],
+  "author": "Jocode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Josy216/create-folder/issues"
+  },
+  "homepage": "https://github.com/Josy216/create-folder#readme"
+}
