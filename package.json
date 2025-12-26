@@ -1,8 +1,8 @@
 {
-  "name": "create-folder",
-  "version": "1.0.0",
+  "name": "jocode-create-folder",
+  "version": "1.0.1",
   "description": "Create folder in a second",
-  "type":"module",
+  "type": "module",
   "bin": {
     "create-folder": "./index.js"
   },

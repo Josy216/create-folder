@@ -9,7 +9,7 @@ const allowed = [".git", ".gitignore"];
 const filesInRoot = fs.readdirSync(root);
 const unsafe = filesInRoot.filter((f) => !allowed.includes(f));
 
-if (unsafe.length > 2) {
+if (unsafe.length > 4) {
   console.log(
     "❌ This folder is not empty. Create a new project folder and run create-folder there."
   );
