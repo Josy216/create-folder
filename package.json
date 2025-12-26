@@ -1,6 +1,6 @@
 {
   "name": "jocode-create-folder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create folder in a second",
   "type": "module",
   "bin": {
